@@ -205,7 +205,7 @@ Every Time Zone: 这个网站提供了一个简单易用的界面，可以轻松
 
 ## l10n-localization 
 - [l10n成熟度标准](https://blog.andovar.com/localization-maturity-model-how-does-your-company-measure-up)
-
+- [MessageFormat 2.0](https://github.com/unicode-org/message-format-wg)
 
 ## 出海企业新闻和文章
 ### 出海企业
